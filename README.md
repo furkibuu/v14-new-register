@@ -1,6 +1,6 @@
 
 
-# **Kayıt Botu - README**
+# **V14 Register - Furkibu_**
 
 ## 📌 **Botu Kullanmadan Önce Dikkat Edilmesi Gerekenler**
 
